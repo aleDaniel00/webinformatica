@@ -644,7 +644,7 @@
 }
 
 .blue {
-  background-color: #2196F3 !important;
+  background-color: rgb(3, 169, 244) !important;
 }
 
 .blue-text {
@@ -8459,4 +8459,16 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .picker--time .picker__box {
     margin-bottom: 5em;
   }
+}
+
+
+p.left-align.light.flow-text.text-white {
+    color: #cbe1f3;
+    font-weight: 500;
+    font-size: 1.5em;
+    line-height: 160%;
+}
+
+h5.header.left.teal-text.text-lighten-2.pad {
+    padding: 50px 0;
 }
